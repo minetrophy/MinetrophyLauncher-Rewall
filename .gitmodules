@@ -1,0 +1,3 @@
+[submodule "src/kosogroup/minecraft/launcher/core"]
+	path = src/kosogroup/minecraft/launcher/core
+	url = https://github.com/koso-group/jphp-minecraft-launcher

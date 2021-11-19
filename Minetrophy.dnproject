@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<project author="meatsuko" authorOS="Windows 10" createdAt="1637322056423" ideName="DevelNext" ideVersion="16.7.0" ideVersionHash="2017103112" name="Minetrophy" packageName="minetrophy" template="ide\project\templates\DefaultGuiProjectTemplate" updatedAt="1637359643964">
+  <tree>
+    <expanded>
+    <path src=""/>
+    </expanded>
+  </tree>
+  <openedFiles>
+  <file src="Minetrophy.dnproject"/>
+    <file src="src/minetrophy/forms/MainForm.php"/>
+    <file selected="1" src="src/minetrophy/forms/CabinetForm.php"/>
+    <file src="src/minetrophy/forms/AuthFormFragment.php"/>
+    <file src="src/minetrophy/forms/DownloaderFragment.php"/>
+  </openedFiles>
+  <files/>
+  <behaviours>
+  <behaviour class="ide\project\behaviours\BundleProjectBehaviour"/>
+    <behaviour class="ide\project\behaviours\PhpProjectBehaviour"/>
+    <behaviour class="ide\project\behaviours\JavaPlatformBehaviour"/>
+    <behaviour class="ide\project\behaviours\GuiFrameworkProjectBehaviour"/>
+    <behaviour class="ide\project\behaviours\RunBuildProjectBehaviour"/>
+    <behaviour class="ide\project\behaviours\ShareProjectBehaviour"/>
+    <behaviour class="ide\project\behaviours\BackupProjectBehaviour"/>
+    <behaviour class="ide\project\behaviours\GradleProjectBehaviour"/>
+  </behaviours>
+</project>

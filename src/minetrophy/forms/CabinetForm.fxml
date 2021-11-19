@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?import javafx.scene.*?><?import javafx.collections.*?><?import javafx.scene.layout.*?><?import javafx.scene.control.*?><?import javafx.scene.text.*?><?import javafx.scene.image.*?><?import javafx.scene.shape.*?><?import javafx.scene.paint.*?><?import javafx.scene.web.*?><?import javafx.geometry.*?><?import java.lang.*?><?import org.develnext.jphp.ext.javafx.classes.data.*?><?import org.develnext.jphp.ext.javafx.support.*?><?import org.develnext.jphp.ext.javafx.support.control.*?><?import org.develnext.jphp.ext.game.support.*?><AnchorPane xmlns="http://javafx.com/javafx/8" xmlns:fx="http://javafx.com/fxml/1" AnchorPane.bottomAnchor="0" AnchorPane.leftAnchor="0" AnchorPane.rightAnchor="0" AnchorPane.topAnchor="0" focusTraversable="false" id="" maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="560" prefWidth="384" styleClass="root ">
+  <children>
+    <ImageViewEx autoSize="false" centered="false" focusTraversable="false" height="560" id="image" layoutX="0" layoutY="0" mosaic="false" mosaicGap="0" proportional="false" stretch="true" styleClass="" textFill="#000000" width="384">
+      <font>
+        <Font name="System Regular" size="12"/>
+      </font>
+    </ImageViewEx>
+    <Data cursor="DEFAULT" enabled="1" id="data-image" image=".data/img/bg_cabinet.png" visible="1"/>
+    <VBox alignment="TOP_LEFT" focusTraversable="false" id="vBoxContentPane" layoutX="24" layoutY="344" maxHeight="-1" maxWidth="-1" minHeight="-1" minWidth="-1" prefHeight="184" prefWidth="336" spacing="8" style="-fx-background-radius: 3px;" styleClass="root-pane ">
+      <padding>
+        <Insets bottom="8" left="8" right="8" top="8"/>
+      </padding>
+      <children/>
+    </VBox>
+    <Data cursor="DEFAULT" enabled="1" id="data-vBoxContentPane" visible="1"/>
+    <ImageViewEx autoSize="false" centered="true" focusTraversable="false" height="264" id="imageSkinFront" layoutX="40" layoutY="48" mosaic="false" mosaicGap="0" proportional="false" stretch="false" styleClass="" textFill="#000000" width="144">
+      <font>
+        <Font name="System Regular" size="12"/>
+      </font>
+    </ImageViewEx>
+    <Data cursor="DEFAULT" enabled="1" id="data-imageSkinFront" image="" visible="1"/>
+    <ImageViewEx autoSize="false" centered="true" focusTraversable="false" height="264" id="imageSkinBack" layoutX="200" layoutY="48" mosaic="false" mosaicGap="0" proportional="false" stretch="false" styleClass="" textFill="#000000" width="144">
+      <font>
+        <Font name="System Regular" size="12"/>
+      </font>
+    </ImageViewEx>
+    <Data cursor="DEFAULT" enabled="1" id="data-imageSkinBack" visible="1"/>
+  </children>
+</AnchorPane>
